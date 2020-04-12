@@ -20,7 +20,7 @@ public class SecondActivity extends AppCompatActivity {
         bCamera.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(SecondActivity.this, cameractivity.class);
+                Intent intent = new Intent(SecondActivity.this, cameraActivity.class);
                 startActivity(intent);
             }
         });
