@@ -17,6 +17,7 @@
             </intent-filter>
         </activity>
         <activity android:name="com.example.garethkalengophiri.SnapCode.SecondActivity"></activity>
+        <activity android:name=".cameractivity"></activity>
     </application>
 
 </manifest>
